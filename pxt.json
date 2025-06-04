@@ -1,0 +1,12 @@
+{
+    "name": "memory-game",
+    "description": "An extension for a memory game using MakeCode Arcade.",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [],
+    "license": "MIT"
+}
